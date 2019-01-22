@@ -17,11 +17,11 @@
 (require 'cl-lib)
 (deftheme dracula)
 
-(let ((colors '((fg1          "#f8f8f2")      ; Assigment form: VARIABLE COLOR [TTY-COLOR]
+(let ((colors '((fg1          "#ffffff")      ; Assigment form: VARIABLE COLOR [TTY-COLOR]
                 (fg2          "#e2e2dc")
                 (fg3          "#ccccc7")
                 (fg4          "#b6b6b2")
-                (bg1          "#282a36" "#000000")
+                (bg1          "#1e1f29" "#000000")
                 (bg2          "#373844")
                 (bg3          "#464752")
                 (bg4          "#565761")
